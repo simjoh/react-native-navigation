@@ -1,0 +1,1 @@
+A really simple stacknavigator. Handy when starting stuff or whant to do som simple testing involving stack navigation in react-navigation.
